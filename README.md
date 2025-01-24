@@ -29,3 +29,8 @@ y ~~tachado~~.
 - Esto es un ítem de lista desordenada.
 - Esto es un ítem de lista desordenada.
 - Esto es un ítem de lista desordenada.
+
+# Links
+- <a href:="http://www.google.com">Esto es un link HTML</a>
+- [Esto es un link en MarkDown](http://www.google.com)
+- [Esto es un link al Index](index.html)
