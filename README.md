@@ -34,3 +34,6 @@ y ~~tachado~~.
 - <a href:="http://www.google.com">Esto es un link HTML</a>
 - [Esto es un link en MarkDown](http://www.google.com)
 - [Esto es un link al Index](index.html)
+
+# Imágenes
+![Logo GitHub](https://cdn-icons-png.flaticon.com/512/25/25231.png)
