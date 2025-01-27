@@ -37,3 +37,24 @@ y ~~tachado~~.
 
 # Imágenes
 ![Logo GitHub](https://cdn-icons-png.flaticon.com/512/25/25231.png)
+
+# Code Snippets
+Código en JSON
+```JSON
+[
+    {
+        "title": "apples",
+        "count": [12000, 20000],
+        "description": {"text": "...", "sensitive": false}
+    },
+    {
+        "title": "oranges",
+        "count": [17500, null],
+        "description": {"text": "...", "sensitive": false}
+    }
+]
+```
+Código en JacaScript
+```JavaScript
+
+```
